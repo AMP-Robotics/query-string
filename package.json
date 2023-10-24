@@ -13,8 +13,7 @@
 	"type": "module",
 	"exports": {
 		"types": "./index.d.ts",
-		"default": "./index.js",
-		"base": "./base.js"
+		"default": "./base.js"
 	},
 	"engines": {
 		"node": ">=14.16"
